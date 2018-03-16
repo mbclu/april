@@ -1,0 +1,7 @@
+module AprilTags [system] {
+    header "apriltag.h"
+    header "tag36h11.h"
+    header "common/image_u8.h"
+    header "common/image_f32.h"
+    export *
+}
